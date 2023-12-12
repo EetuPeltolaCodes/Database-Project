@@ -1,0 +1,9 @@
+DROP TABLE Team;
+DROP TABLE Matches;
+DROP TABLE TeamsInMatches;
+DROP TABLE Wages;
+DROP TABLE Nation;
+DROP TABLE Players;
+DROP TABLE Goalkeeper;
+DROP VIEW Top10GoalScorers;
+DROP VIEW FinnishPlayers;
